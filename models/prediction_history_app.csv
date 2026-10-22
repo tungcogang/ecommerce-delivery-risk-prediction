@@ -1,0 +1,3 @@
+﻿Thời gian,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender,Discount_offered,Weight_in_gms,Late_probability,Prediction,Status
+2026-10-14 15:01:25,F,Ship,3,4,200,3,medium,F,10,3500,0.8551,1,CẢNH BÁO: Có nguy cơ giao trễ
+2026-10-14 15:22:13,A,Ship,3,4,200,3,medium,F,10,3500,0.9109,1,CẢNH BÁO: Có nguy cơ giao trễ

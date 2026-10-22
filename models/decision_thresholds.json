@@ -1,0 +1,14 @@
+{
+    "Decision Tree": {
+        "threshold": 0.405751364580482,
+        "target_precision": 0.65,
+        "selection_note": "Không đạt Precision mục tiêu; tạm chọn ngưỡng có F1 cao nhất",
+        "oof_average_precision": 0.5579693159860606
+    },
+    "Random Forest": {
+        "threshold": 0.4830256860688377,
+        "target_precision": 0.65,
+        "selection_note": "Không đạt Precision mục tiêu; tạm chọn ngưỡng có F1 cao nhất",
+        "oof_average_precision": 0.5627228386071955
+    }
+}
